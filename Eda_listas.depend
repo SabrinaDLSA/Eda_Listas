@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1443193192 source:/home/sabrina/Escritorio/Eda_listas/main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	"implementaciones.cpp"
+
+1443193715 /home/sabrina/Escritorio/Eda_listas/implementaciones.cpp
+	"header.h"
+	<iostream>
+	<string>
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+
+1443191376 /home/sabrina/Escritorio/Eda_listas/header.h
+
